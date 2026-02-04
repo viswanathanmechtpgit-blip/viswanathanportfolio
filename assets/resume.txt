@@ -1,0 +1,13 @@
+VISWANATHAN
+AI Engineer Portfolio Resume
+----------------------------
+
+This is a placeholder resume file. 
+Please replace this file with your actual PDF resume named 'resume.pdf' in the assets folder.
+
+Skills:
+- AI & Deep Learning
+- Web Development (Modern Vanilla Stack)
+- Python, JavaScript, React (Concept)
+
+Contact: email@example.com

@@ -1,0 +1,7 @@
+.gemini/
+.agent/
+brain/
+old_portfolio_backup/
+*.log
+node_modules/
+.DS_Store
