@@ -53,4 +53,11 @@
     --glass-bg: rgba(15, 23, 42, 0.95);
     --glass-border: 1px solid rgba(255, 255, 255, 0.05);
     --glass-backdrop: blur(12px);
+
+    /* Chat Assistant Variables */
+    --chat-width: 350px;
+    --chat-height: 500px;
+    --chat-bg: rgba(15, 23, 42, 0.9);
+    --msg-user-bg: var(--accent-color);
+    --msg-bot-bg: rgba(255, 255, 255, 0.05);
 }

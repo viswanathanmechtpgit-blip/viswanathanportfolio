@@ -195,6 +195,34 @@
         </div>
     </footer>
 
+    <!-- AI Assistant Widget -->
+    <div class="ai-assistant-widget">
+        <div class="chat-window hidden" id="chat-window">
+            <div class="chat-header">
+                <div class="header-info">
+                    <i class="fas fa-robot"></i>
+                    <div>
+                        <h4>Internal Assistant</h4>
+                        <span class="status">Online</span>
+                    </div>
+                </div>
+                <button id="close-chat"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="chat-messages" id="chat-messages">
+                <div class="message bot">
+                    Hello! I'm Viswa's Internal Assistant. How can I help you explore his portfolio or projects?
+                </div>
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="user-input" placeholder="Ask about projects, skills...">
+                <button id="send-msg"><i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+        <button class="chat-toggle" id="chat-toggle" title="Ask Assistant">
+            <i class="fas fa-comment-dots"></i>
+        </button>
+    </div>
+
     <script src="js/script.js"></script>
 </body>
 
